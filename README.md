@@ -1,5 +1,4 @@
 # ref-seqs-chromatic-acclimation
-The reference sequences of genes involved in chromatic acclimation.
 
 The references of `cpcBA` and `cpeBA` operon sequences were downloaded from NCBI according to the list summarized by (Xia et al., 2018; Xia, Guo, et al., 2017; Xia, Partensky, et al., 2017) and (Grébert et al., 2018). The reference sequences of genes implicated in CA4-A and CA4-B genetic islands, including `MpeZ`, `MpeY`, `MpeW`, and `MpeQ`, were retrieved according to (Grébert et al., 2021).
 
